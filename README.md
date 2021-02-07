@@ -1,1 +1,1 @@
-# Exercício_javascript
+# Projeto_javascrript
